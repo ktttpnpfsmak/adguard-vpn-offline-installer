@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-VPN-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AdGuard VPN Free Installer** — AdGuard VPN is a VPN service from the makers of AdGuard ad blocker, available for Windows, macOS, iOS, Android, and browser extensions. Works without internet access, no account required. Full offline installation.
+**💻 AdGuard VPN Free Installer** — AdGuard VPN is a VPN service from the creators of AdGuard ad blocker with integrated tracking protection. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About AdGuard VPN
 
-AdGuard VPN is a VPN service from the makers of AdGuard ad blocker, available for Windows, macOS, iOS, Android, and browser extensions. It uses a proprietary protocol based on HTTPS for better traffic masking and provides servers in 50+ locations. Integrating with AdGuard Ad Blocker, AdGuard VPN offers a combined privacy and security solution for users already in the AdGuard ecosystem.
+AdGuard VPN is a VPN service from the creators of AdGuard ad blocker with integrated tracking protection. It provides a no-log policy, split tunneling, and integration with AdGuard's ad-blocking capabilities for a combined privacy solution.
 
 ---
 
 ## ❌ Problem: AdGuard VPN is hard to access
 
-- **Subscription Required** — Monthly or annual fee for VPN service
-- **Proprietary Protocol** — Uses custom protocol rather than open-source WireGuard or OpenVPN
-- **Server Count** — Fewer servers than major VPN providers like NordVPN or ExpressVPN
-- **Ecosystem Tie** — Best value when combined with AdGuard Ad Blocker subscription
+- **Subscription Required** — Limited free tier; full features require subscription
+- **Smaller Server Network** — Fewer server locations than major VPN providers
+- **Combined Product Focus** — Maximum value when using AdGuard ad blocker alongside VPN
+- **Performance** — Speeds competitive but not leading in independent testing
 
 ---
 
@@ -121,7 +121,7 @@ AdGuard VPN is a VPN service from the makers of AdGuard ad blocker, available fo
 
 ---
 
-**AdGuard VPN Free Installer** — AdGuard VPN is a VPN service from the makers of AdGuard ad blocker, available for Windows, macOS, iOS, Android, and browser extensions. Install without internet connection today!
+**AdGuard VPN Free Installer** — AdGuard VPN is a VPN service from the creators of AdGuard ad blocker with integrated tracking protection. Install without internet connection today!
 
 <div align="center">
 
